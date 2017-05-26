@@ -7,13 +7,13 @@
 font-family: 'Oleo Script';
 font-style: normal;
 font-weight: 400;
-src: local('Oleo Script'), url(http://fonts.gstatic.com/s/oleoscript/v5/_weQNDK6Uf40CiGFKBBUjogp9Q8gbYrhqGlRav_IXfk.woff2) format('woff2');
+src: local('Oleo Script'), url(https://fonts.gstatic.com/s/oleoscript/v5/_weQNDK6Uf40CiGFKBBUjogp9Q8gbYrhqGlRav_IXfk.woff2) format('woff2');
 }
 @font-face {
 font-family: 'Poiret One';
 font-style: normal;
 font-weight: 400;
-src: local('Poiret One'), url(http://fonts.gstatic.com/s/poiretone/v4/HrI4ZJpJ3Fh0wa5ofYMK8QzyDMXhdD8sAj6OAJTFsBI.woff2) format('woff2');
+src: local('Poiret One'), url(https://fonts.gstatic.com/s/poiretone/v4/HrI4ZJpJ3Fh0wa5ofYMK8QzyDMXhdD8sAj6OAJTFsBI.woff2) format('woff2');
 }
 
 .site-header{
